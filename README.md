@@ -4,7 +4,8 @@ Pre-Made EFI folder to boot lateste macOS Big Sur
 Y70-70 OpenCore 0.6.3 11 Beta Dev 9
 Haswell Intel i7-4720HQ / HD 4600
 
-Remember to edit config.plit "PlatformInfo" section whit GenSMBIOS for you.
+# Remember to edit config.plits "PlatformInfo" section whit GenSMBIOS using this guide from here :
+
 
 # Always using latest Opencore commit downloaded from here :
 https://github.com/williambj1/OpenCore-Factory/releases
@@ -36,9 +37,3 @@ sudo mkdir /var/vm/sleepimage
 - Mic And Webcam
 - All USB Ports
 - Intel Bluetooth (cannot connect my MX Master Mouse)
-
-# Changelog
-2020-10-07
- 
-- First Pre-Made Release
-- Include All Necessary Kexts
